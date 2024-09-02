@@ -1,2 +1,2 @@
 # HTMLpage1*
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![image](https://github.com/user-attachments/assets/273c034c-2974-4c04-99a8-fd1ee2dd2ca5)
